@@ -5,8 +5,8 @@
 # php
 # mysql
 # redis
-mongo
-nodejs
+# mongo
+node
 centos
 postgresql
 rabbitmq

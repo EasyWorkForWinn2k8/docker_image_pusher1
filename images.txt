@@ -1,5 +1,5 @@
 ubuntu
-anythingllm
+mintplexlabs/anythingllm
 openwebui
 nginx
 #支持私库

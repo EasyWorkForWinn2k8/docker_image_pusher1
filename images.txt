@@ -1,11 +1,11 @@
-ubuntu
-mintplexlabs/anythingllm
-nginx
-wordpress
-php
-mysql
-redis
-mongodb
+#ubuntu
+# mintplexlabs/anythingllm
+# nginx
+# wordpress
+# php
+# mysql
+# redis
+mongo
 nodejs
 centos
 postgresql

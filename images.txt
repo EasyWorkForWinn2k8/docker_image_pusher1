@@ -8,7 +8,7 @@
 # mongo
 # node
 centos:7
-postgre
+postgres
 rabbitmq
 wurstmeister/kafka
 alpine

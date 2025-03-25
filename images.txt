@@ -6,8 +6,8 @@
 # mysql
 # redis
 # mongo
-node
-centos
+# node
+centos:7
 postgre
 rabbitmq
 wurstmeister/kafka

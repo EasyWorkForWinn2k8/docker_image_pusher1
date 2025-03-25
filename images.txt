@@ -1,7 +1,7 @@
 ubuntu
 mintplexlabs/anythingllm
 nginx
-WordPress
+wordpress
 php
 mysql
 redis
